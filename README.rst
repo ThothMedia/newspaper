@@ -298,18 +298,24 @@ NOTE: You will still most likely need to install the following libraries via you
 
     $ curl https://raw.githubusercontent.com/codelucas/newspaper/master/download_corpora.py | python3
 
-Support Newspaper3K financially
--------------------------------
-
-Help support me via Patreon so I can dedicate more of my time towards Newspaper3K! I plan
-on adding things like advanced machine learned based techniques for news, image, and full-text
-extraction. We even have lofty long-term goals such as tackling the fake news problem!
-`View our Patreon support page here`_
+Consulting
+----------
 
 *This service is already used around the world* by startups, top news organizations (CNN, NYT, etc),
-graduate school researchers, and, of course, hackers like you :) Perhaps one day we can even tackle and be
-at the forefront of the news intelligence domain; tackling new problems such as fake news, nlp, author
-credibility. Your support goes a long way, thank you.
+graduate school researchers, and, of course, hackers like you :) If you or your company are interested
+in more advanced features like: increased NLP and scraping accuracy, mis-information, fake news, author
+credibility, boosted coverage and accuracy for your use case, and etc; feel free to `email & contact me`_
+for consulting.
+
+Donations
+---------
+
+Your donations are greatly appreciated! They will free me up to work on this project more,
+to take on things like: adding new features, bug-fix support, addressing concerns with the library.
+
+- My PayPal link: `https://www.paypal.me/codelucas`_
+- My `Venmo`_ handle: @Lucas-Ou-Yang
+
 
 Development
 -----------
@@ -359,7 +365,8 @@ to talk about the future of this library and news extraction in general!
 .. _`python-goose's`: https://github.com/grangier/python-goose
 .. _`here`: https://github.com/codelucas/newspaper/blob/master/GOOSE-LICENSE.txt
 
-.. _`View our Patreon support page here`: https://www.patreon.com/codelucas
+.. _`https://www.paypal.me/codelucas`: https://www.paypal.me/codelucas
+.. _`Venmo`: https://www.venmo.com/Lucas-Ou-Yang
 
 .. _`Quickstart guide`: https://newspaper.readthedocs.io/en/latest/
 .. _`The Documentation`: https://newspaper.readthedocs.io
